@@ -9,7 +9,14 @@
 In the following sketch is very simple.
 Depedning where the coursor is, the color and saturation of the cirlces will change. 
 
+## Ping Pong for two persons
 
-## Ping Pong for 2
+<img width="597" alt="screen shot 2018-02-15 at 21 36 41" src="https://user-images.githubusercontent.com/33125112/36279840-b59526b8-1298-11e8-961d-6caa9dfeafcd.png">
 
-## Loop
+This sketch was a task for recreating the Pong Game.
+It can be used with the arrows of the keyboard
+
+## Color Circles Loop
+
+<img width="999" alt="screen shot 2018-02-15 at 21 35 56" src="https://user-images.githubusercontent.com/33125112/36279859-c3837c16-1298-11e8-83ec-c14f07f18127.png">
+

@@ -22,4 +22,4 @@ It can be used with the arrows of the keyboard
 
 In the following sketch a group of circles will appear and disappear out of the screen. You can alos stop it my pressing with the mouse in the screen. 
 
-######### All of this task help me understand concets like "Array", "Object", "Loop" and how to organize the information and work using logic. Thank you :)
+*All of this task help me understand concets like "Array", "Object", "Loop" and how to organize the information and work using logic. Thank you :)*
